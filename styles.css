@@ -100,8 +100,9 @@
     opacity: 0.8;
 }
 .content-section{
+    margin-top: -300px;
    position:relative;
-   bottom: 300px;
+   z-index: 1;
 }
 .test-box{
     display: flex;
